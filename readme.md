@@ -4,10 +4,10 @@
 <!--  Search for "EDIT" to find every spot you should customize.   -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mahek%20Ghodmare&fontSize=46&fontAlignY=38&desc=Data%20Science%20%26%20AIML%20%7C%20Aspiring%20Data%20Analyst&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mahek%20Ghodmare&fontSize=46&fontAlignY=38&desc=Data%20Science%20and%20AIML%20%7C%20Aspiring%20Data%20Analyst&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AIML+Student;Aspiring+Data+Analyst;AI+Business+Analyst+in+the+making;Turning+messy+data+into+decisions;Open+to+internships+and+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+and+AIML+Student;Aspiring+Data+Analyst;AI+Business+Analyst+in+the+making;Turning+messy+data+into+decisions;Open+to+internships+and+collaborations" alt="Typing SVG" />
 </p>
 
 <p align="center">
